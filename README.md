@@ -18,6 +18,12 @@
 - **Frontend:** React.js  
 - **Database:** IPFS for decentralized storage  
 
+## 📌 Roadmap  
+1️⃣ **Q2 2025:** MVP launch with basic forum functionality  
+2️⃣ **Q3 2025:** Integrate learn-to-earn rewards  
+3️⃣ **Q4 2025:** On-chain reputation & governance system  
+
+
 ## 🔗 Links  
 - Website: _Coming Soon_  
 - Twitter: _Coming Soon_  
